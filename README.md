@@ -10,8 +10,8 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 * Förstå grunderna i molnet och hur det är uppbyggt
 * Förstå hur olika tjänsters prismodeller fungerar
 * Förstå vad serverless och ett serverless API är och hur det är uppbyggt
-* Kunna skapa och använda sig av en Lambda - funktion
-* Kunna pusha upp kod till en Lambda - funktion lokalt med AWS CLI
+* Kunna skapa och använda sig av en Lambda-funktion
+* Kunna pusha upp kod till en Lambda-funktion lokalt med AWS CLI
 
 ## Resurser
 

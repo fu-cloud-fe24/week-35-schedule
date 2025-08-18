@@ -24,6 +24,9 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 
 **Förinspelat**
 
+* 01 - [Introduktion till Molnet](https://vimeo.com/1092409921/4cbce6d1e9?share=copy)
+* 02 - [Prismodeller i molnet](https://vimeo.com/1092411421/363bbe479a?share=copy)
+
 ### Lektionsrepon
 
 

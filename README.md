@@ -17,6 +17,11 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 
 ### Presentationer
 
+* 01 - [Kursintro](https://docs.google.com/presentation/d/1rD09EiRCV9khyFKwFTV1HWz8TqKt2xaM/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 02 - [Intro till molnet](https://docs.google.com/presentation/d/1yvIrEiSfwxYSF21IJ92dJBYtkJc5qUe5/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 03 - [Serverless](https://docs.google.com/presentation/d/1xKn1zBZ5jHTV0ctMF2Z4LBnDeg2EjlA9/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 04 - [IAM](https://docs.google.com/presentation/d/13z6YZRAbSGRLNe3_Snq_aKUio5K_gb0u/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 05 - [Lambda](https://docs.google.com/presentation/d/1fY-58-o1l5fCqIFcQ4GgQGH2kGhIMPEu/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -46,3 +51,4 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 ### Övningar 
 
 * [IAM Bootcamp](https://github.com/fu-cloud-fe24/week-35-exercise-IAM-bootcamp)
+* [Lambda Bootcamp](https://github.com/fu-cloud-fe24/week-35-exercise-lambda-bootcamp)

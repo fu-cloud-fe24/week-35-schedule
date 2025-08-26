@@ -27,6 +27,8 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 
 **LIVE**
 
+* 01 - [Intro, IAM & Lambda](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EY1U6yEK0oZIuN1qM2FSl08BM_-LYgO1aL1PAJ0vt57tog?e=jSb1vI)
+
 **Förinspelat**
 
 * 01 - [Introduktion till Molnet](https://vimeo.com/1092409921/4cbce6d1e9?share=copy)

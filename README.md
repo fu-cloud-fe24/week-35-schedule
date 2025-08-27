@@ -40,6 +40,8 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 * 07 - [IAM / Vanlig User](https://vimeo.com/1093117010/0a9e1be93e?share=copy)
 * 08 - [IAM / Policies](https://vimeo.com/1094064431/5cad9e0799?share=copy)
 * 09 - [IAM / Roller](https://vimeo.com/1094064395/1ab781d7f0?share=copy)
+* 10 - [Lambda / AWS CLI](https://vimeo.com/1094425694/9ec1dcc3b0)
+* 11 - [Lambda / Arbeta lokalt och pusha till AWS](https://vimeo.com/1095962274/cdf6be2057)
 
 ### Lektionsrepon
 
@@ -49,6 +51,7 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 
 ### Länkar
 
+* [Getting started with AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 ### Övningar 
 

@@ -52,6 +52,7 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 ### Länkar
 
 * [Getting started with AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+* [AWS CLI Cheat Sheet](https://github.com/fu-cloud-fe24/week-35-aws-cli-cheat-sheet/tree/main)
 
 ### Övningar 
 
